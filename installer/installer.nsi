@@ -32,7 +32,15 @@ Section "MainSection" SEC01
     SetOutPath "$INSTDIR"
     SetOverwrite on
 
-    File /r "..\build\bin\*"
+    File /r "..\build\bin\*.*"
+
+    SetOutPath "$INSTDIR\plugins"
+    File /r "..\build\bin\plugins\*.*"
+
+    SetOutPath "$INSTDIR\qml"
+    File /r "..\build\bin\qml\*.*"
+
+    SetOutPath "$INSTDIR"
 
     CreateDirectory "$SMPROGRAMS\${PRODUCT_NAME}"
     CreateShortCut "$SMPROGRAMS\${PRODUCT_NAME}\${PRODUCT_NAME}.lnk" "$INSTDIR\${PRODUCT_EXE}"
@@ -52,13 +60,7 @@ Section "Uninstall"
     Delete "$DESKTOP\${PRODUCT_NAME}.lnk"
     Delete "$SMPROGRAMS\${PRODUCT_NAME}\*.*"
     RMDir "$SMPROGRAMS\${PRODUCT_NAME}"
-
-    Delete "$INSTDIR\${PRODUCT_EXE}"
-    Delete "$INSTDIR\uninstall.exe"
-    Delete "$INSTDIR\*.dll"
-    RMDir /r "$INSTDIR\*"
-    RMDir "$INSTDIR"
-
+    RMDir /r "$INSTDIR"
     DeleteRegKey HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\${PRODUCT_NAME}"
     DeleteRegKey HKLM "Software\${PRODUCT_PUBLISHER}\${PRODUCT_NAME}"
 SectionEnd
