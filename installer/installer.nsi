@@ -1,5 +1,4 @@
 !include "MUI2.nsh"
-!include "FileFunc.nsh"
 
 !define PRODUCT_NAME "Diamond Inventory"
 !define PRODUCT_VERSION "1.0.0"
@@ -32,15 +31,7 @@ Section "MainSection" SEC01
     SetOutPath "$INSTDIR"
     SetOverwrite on
 
-    File /r "..\build\bin\*.*"
-
-    SetOutPath "$INSTDIR\plugins"
-    File /r "..\build\bin\plugins\*.*"
-
-    SetOutPath "$INSTDIR\qml"
-    File /r "..\build\bin\qml\*.*"
-
-    SetOutPath "$INSTDIR"
+    File /r "..\build\bin\"
 
     CreateDirectory "$SMPROGRAMS\${PRODUCT_NAME}"
     CreateShortCut "$SMPROGRAMS\${PRODUCT_NAME}\${PRODUCT_NAME}.lnk" "$INSTDIR\${PRODUCT_EXE}"
