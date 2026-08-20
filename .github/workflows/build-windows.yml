@@ -23,7 +23,7 @@ jobs:
           host: 'windows'
           target: 'desktop'
           arch: 'win64_msvc2019_64'
-          modules: 'qtquickcontrols2 qtsvg'
+          modules: 'qtsvg'
 
       - name: Setup MSVC developer environment
         uses: ilammy/msvc-dev-cmd@v1
@@ -40,15 +40,25 @@ jobs:
       - name: Run Tests
         run: ctest --test-dir build --output-on-failure -C Release
 
-      - name: Deploy Qt Dependencies (windeployqt)
+      - name: Deploy Qt Dependencies
         run: |
-          windeployqt --qmldir qml --release --compiler-runtime build/DiamondInventory.exe
+          windeployqt --qmldir qml --release --compiler-runtime build/bin/DiamondInventory.exe
+
+      - name: Setup NSIS
+        run: |
+          choco install nsis -y
 
       - name: Package with NSIS
         run: |
-          makensis /DVERSION="1.0.0" installer/installer.nsi
+          & "C:\Program Files (x86)\NSIS\makensis.exe" /DVERSION="1.0.0" installer/installer.nsi
 
-      - name: Upload Installer Artifact
+      - name: Upload Standalone App Folder
+        uses: actions/upload-artifact@v4
+        with:
+          name: DiamondInventory-Windows-Portable
+          path: build/bin/
+
+      - name: Upload Installer
         uses: actions/upload-artifact@v4
         with:
           name: DiamondInventorySetup-Windows

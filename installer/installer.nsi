@@ -14,8 +14,6 @@ InstallDirRegKey HKLM "Software\${PRODUCT_PUBLISHER}\${PRODUCT_NAME}" "Install_D
 RequestExecutionLevel admin
 
 !define MUI_ABORTWARNING
-!define MUI_ICON "../resources/icons/app_icon.ico"
-!define MUI_UNICON "../resources/icons/app_icon.ico"
 
 !insertmacro MUI_PAGE_WELCOME
 !insertmacro MUI_PAGE_DIRECTORY
@@ -34,11 +32,7 @@ Section "MainSection" SEC01
     SetOutPath "$INSTDIR"
     SetOverwrite on
 
-    File /r "..\build\DiamondInventory.exe"
-    File /r "..\build\*.dll"
-    File /r "..\build\plugins"
-    File /r "..\build\qml"
-    File /r "..\build\translations"
+    File /r "..\build\bin\*"
 
     CreateDirectory "$SMPROGRAMS\${PRODUCT_NAME}"
     CreateShortCut "$SMPROGRAMS\${PRODUCT_NAME}\${PRODUCT_NAME}.lnk" "$INSTDIR\${PRODUCT_EXE}"
@@ -52,7 +46,6 @@ Section "MainSection" SEC01
     WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\${PRODUCT_NAME}" "Publisher" "${PRODUCT_PUBLISHER}"
     WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\${PRODUCT_NAME}" "UninstallString" "$\"$INSTDIR\uninstall.exe$\""
     WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\${PRODUCT_NAME}" "QuietUninstallString" "$\"$INSTDIR\uninstall.exe$\" /S"
-    WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\${PRODUCT_NAME}" "DisplayIcon" "$INSTDIR\${PRODUCT_EXE}"
 SectionEnd
 
 Section "Uninstall"
@@ -63,9 +56,7 @@ Section "Uninstall"
     Delete "$INSTDIR\${PRODUCT_EXE}"
     Delete "$INSTDIR\uninstall.exe"
     Delete "$INSTDIR\*.dll"
-    RMDir /r "$INSTDIR\plugins"
-    RMDir /r "$INSTDIR\qml"
-    RMDir /r "$INSTDIR\translations"
+    RMDir /r "$INSTDIR\*"
     RMDir "$INSTDIR"
 
     DeleteRegKey HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\${PRODUCT_NAME}"
