@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="/DiamondInventory">/home/nigoat/Documents/Diamond/build/DiamondInventory</file>
-
-  </qresource>
-</RCC>

@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/DiamondInventory">
-    <file alias="qmldir">/home/nigoat/Documents/Diamond/build/DiamondInventory/qmldir</file>
-  </qresource>
-</RCC>
-

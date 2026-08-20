@@ -1,0 +1,9 @@
+build/
+build-*/
+cmake-build-*/
+.cache/
+*.user
+*.db
+*.db-wal
+*.db-shm
+.DS_Store
