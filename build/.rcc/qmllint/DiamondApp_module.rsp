@@ -1,0 +1,16 @@
+-I
+/home/nigoat/Documents/Diamond/build
+-I
+/home/nigoat/Documents/Diamond/build/DiamondInventory
+-I
+/home/nigoat/Documents/Diamond/build
+-I
+/usr/lib/qt6/qml
+--resource
+/home/nigoat/Documents/Diamond/build/.qt/rcc/qmake_DiamondInventory.qrc
+--resource
+/home/nigoat/Documents/Diamond/build/.qt/rcc/DiamondApp_raw_qml_0.qrc
+--resource
+/home/nigoat/Documents/Diamond/build/.qt/rcc/DiamondApp_raw_res_0.qrc
+--module
+DiamondInventory

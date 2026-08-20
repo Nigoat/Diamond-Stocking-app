@@ -1,0 +1,13 @@
+CREATE INDEX IF NOT EXISTS idx_diamonds_ref ON diamonds(reference);
+CREATE INDEX IF NOT EXISTS idx_diamonds_name ON diamonds(name);
+CREATE INDEX IF NOT EXISTS idx_diamonds_status ON diamonds(status);
+CREATE INDEX IF NOT EXISTS idx_diamonds_shape ON diamonds(shape);
+CREATE INDEX IF NOT EXISTS idx_diamonds_carat ON diamonds(carat_weight);
+CREATE INDEX IF NOT EXISTS idx_diamonds_color ON diamonds(color);
+CREATE INDEX IF NOT EXISTS idx_diamonds_clarity ON diamonds(clarity);
+CREATE INDEX IF NOT EXISTS idx_diamonds_supplier ON diamonds(supplier_id);
+CREATE INDEX IF NOT EXISTS idx_diamonds_archived ON diamonds(archived);
+CREATE INDEX IF NOT EXISTS idx_diamonds_favorite ON diamonds(is_favorite);
+CREATE INDEX IF NOT EXISTS idx_diamonds_cert_num ON diamonds(certificate_number);
+CREATE INDEX IF NOT EXISTS idx_diamond_images_diamond_id ON diamond_images(diamond_id);
+CREATE INDEX IF NOT EXISTS idx_audit_log_diamond_id ON audit_log(diamond_id);

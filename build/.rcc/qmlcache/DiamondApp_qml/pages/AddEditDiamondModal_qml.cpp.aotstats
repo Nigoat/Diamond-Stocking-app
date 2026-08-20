@@ -1,0 +1,1799 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "diamondData",
+                            "line": 9,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 20,
+                            "durationMicroseconds": 0,
+                            "functionName": "implicitWidth",
+                            "line": 15,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 21,
+                            "durationMicroseconds": 0,
+                            "functionName": "implicitHeight",
+                            "line": 16,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 0,
+                            "functionName": "openNew",
+                            "line": 508,
+                            "message": "Cannot access value for name AppController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 0,
+                            "functionName": "openEdit",
+                            "line": 536,
+                            "message": "Functions without type annotations won't be compiled"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 1000,
+                            "functionName": "submitForm",
+                            "line": 573,
+                            "message": "Cannot access value for name SupplierModel"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 14,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 17,
+                            "durationMicroseconds": 3000,
+                            "functionName": "radius",
+                            "line": 19,
+                            "message": "Cannot load property radiusLarge from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 16,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 20,
+                            "message": "Cannot load property bgCard from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 23,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 21,
+                            "message": "Cannot load property border from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 16,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 26,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 16,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 28,
+                            "message": "Cannot load property bgCard from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 17,
+                            "durationMicroseconds": 0,
+                            "functionName": "radius",
+                            "line": 29,
+                            "message": "Cannot load property radiusLarge from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 20,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 33,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 20,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 35,
+                            "message": "Cannot load property border from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 0,
+                            "functionName": "bottom",
+                            "line": 32,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 27,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 39,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 23,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 43,
+                            "message": "Cannot load property reference from AddEditDiamondModal::diamondData with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 46,
+                            "message": "Cannot load property textPrimary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 44,
+                            "message": "Cannot load property fontLarge from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 30,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 45,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 54,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 34,
+                            "durationMicroseconds": 0,
+                            "functionName": "cursorShape",
+                            "line": 57,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 58,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 56,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 24,
+                            "durationMicroseconds": 0,
+                            "functionName": "contentHeight",
+                            "line": 66,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 20,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 70,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 112,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 75,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 63,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 75,
+                            "message": "Cannot load property fontMedium from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 94,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 75,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 117,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 85,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 65,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 85,
+                            "message": "Cannot load property fontSmall from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 95,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 85,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 90,
+                            "message": "Cannot load property textPrimary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 92,
+                            "message": "Cannot load property reference from AddEditDiamondModal::diamondData with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 91,
+                            "message": "Cannot load property fontNormal from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 112,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 98,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 60,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 98,
+                            "message": "Cannot load property fontSmall from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 90,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 98,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 103,
+                            "message": "Cannot load property textPrimary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 105,
+                            "message": "Cannot load property name from AddEditDiamondModal::diamondData with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 104,
+                            "message": "Cannot load property fontNormal from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 109,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 111,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 111,
+                            "message": "Cannot load property fontSmall from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 87,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 111,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 116,
+                            "message": "Cannot load property textPrimary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 118,
+                            "message": "Cannot load property sku from AddEditDiamondModal::diamondData with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 117,
+                            "message": "Cannot load property fontNormal from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 113,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 124,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 124,
+                            "message": "Cannot load property fontSmall from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 91,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 124,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 129,
+                            "message": "Cannot load property textPrimary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 131,
+                            "message": "Cannot load property barcode from AddEditDiamondModal::diamondData with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 130,
+                            "message": "Cannot load property fontNormal from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 113,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 139,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 139,
+                            "message": "Cannot load property fontSmall from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 91,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 139,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 146,
+                            "message": "Cannot load property textPrimary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 148,
+                            "message": "Cannot load property description from AddEditDiamondModal::diamondData with type QVariant."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 0,
+                            "functionName": "wrapMode",
+                            "line": 149,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 147,
+                            "message": "Cannot load property fontNormal from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 67,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 154,
+                            "message": "Cannot load property border from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 118,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 155,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 69,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 155,
+                            "message": "Cannot load property fontMedium from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 100,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 155,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 113,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 165,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 165,
+                            "message": "Cannot load property fontSmall from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 91,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 165,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "model",
+                            "line": 169,
+                            "message": "Cannot generate efficient code for storing an array in a non-sequence type"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 48,
+                            "durationMicroseconds": 0,
+                            "functionName": "onCompleted",
+                            "line": 170,
+                            "message": "Cannot load property shape from AddEditDiamondModal::diamondData with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 120,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 179,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 68,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 179,
+                            "message": "Cannot load property fontSmall from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 98,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 179,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 184,
+                            "message": "Cannot load property textPrimary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 186,
+                            "message": "Cannot load property carat from AddEditDiamondModal::diamondData with type QVariant."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 43,
+                            "durationMicroseconds": 0,
+                            "functionName": "inputMethodHints",
+                            "line": 187,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 185,
+                            "message": "Cannot load property fontNormal from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 113,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 193,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 193,
+                            "message": "Cannot load property fontSmall from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 91,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 193,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "model",
+                            "line": 197,
+                            "message": "Cannot generate efficient code for storing an array in a non-sequence type"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 48,
+                            "durationMicroseconds": 0,
+                            "functionName": "onCompleted",
+                            "line": 198,
+                            "message": "Cannot load property color from AddEditDiamondModal::diamondData with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 115,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 207,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 63,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 207,
+                            "message": "Cannot load property fontSmall from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 93,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 207,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "model",
+                            "line": 211,
+                            "message": "Cannot generate efficient code for storing an array in a non-sequence type"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 48,
+                            "durationMicroseconds": 0,
+                            "functionName": "onCompleted",
+                            "line": 212,
+                            "message": "Cannot load property clarity from AddEditDiamondModal::diamondData with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 109,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 221,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 221,
+                            "message": "Cannot load property fontSmall from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 87,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 221,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "model",
+                            "line": 225,
+                            "message": "Cannot generate efficient code for storing an array in a non-sequence type"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 48,
+                            "durationMicroseconds": 0,
+                            "functionName": "onCompleted",
+                            "line": 226,
+                            "message": "Cannot load property cut from AddEditDiamondModal::diamondData with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 112,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 235,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 60,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 235,
+                            "message": "Cannot load property fontSmall from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 90,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 235,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "model",
+                            "line": 239,
+                            "message": "Cannot generate efficient code for storing an array in a non-sequence type"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 48,
+                            "durationMicroseconds": 0,
+                            "functionName": "onCompleted",
+                            "line": 240,
+                            "message": "Cannot load property polish from AddEditDiamondModal::diamondData with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 114,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 249,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 62,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 249,
+                            "message": "Cannot load property fontSmall from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 92,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 249,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "model",
+                            "line": 253,
+                            "message": "Cannot generate efficient code for storing an array in a non-sequence type"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 48,
+                            "durationMicroseconds": 0,
+                            "functionName": "onCompleted",
+                            "line": 254,
+                            "message": "Cannot load property symmetry from AddEditDiamondModal::diamondData with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 118,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 263,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 66,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 263,
+                            "message": "Cannot load property fontSmall from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 96,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 263,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "model",
+                            "line": 267,
+                            "message": "Cannot generate efficient code for storing an array in a non-sequence type"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 48,
+                            "durationMicroseconds": 0,
+                            "functionName": "onCompleted",
+                            "line": 268,
+                            "message": "Cannot load property fluorescence from AddEditDiamondModal::diamondData with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 113,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 284,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 284,
+                            "message": "Cannot load property fontSmall from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 91,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 284,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 105,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 285,
+                            "message": "Cannot load property textPrimary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 164,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 285,
+                            "message": "Cannot load property tablePercentage from AddEditDiamondModal::diamondData with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 140,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 285,
+                            "message": "Cannot load property fontNormal from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 113,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 289,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 289,
+                            "message": "Cannot load property fontSmall from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 91,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 289,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 105,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 290,
+                            "message": "Cannot load property textPrimary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 164,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 290,
+                            "message": "Cannot load property depthPercentage from AddEditDiamondModal::diamondData with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 140,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 290,
+                            "message": "Cannot load property fontNormal from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 115,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 294,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 63,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 294,
+                            "message": "Cannot load property fontSmall from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 93,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 294,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 106,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 295,
+                            "message": "Cannot load property textPrimary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 165,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 295,
+                            "message": "Cannot load property lengthMm from AddEditDiamondModal::diamondData with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 141,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 295,
+                            "message": "Cannot load property fontNormal from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 114,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 299,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 62,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 299,
+                            "message": "Cannot load property fontSmall from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 92,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 299,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 105,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 300,
+                            "message": "Cannot load property textPrimary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 164,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 300,
+                            "message": "Cannot load property widthMm from AddEditDiamondModal::diamondData with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 140,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 300,
+                            "message": "Cannot load property fontNormal from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 115,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 304,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 63,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 304,
+                            "message": "Cannot load property fontSmall from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 93,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 304,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 106,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 305,
+                            "message": "Cannot load property textPrimary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 165,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 305,
+                            "message": "Cannot load property heightMm from AddEditDiamondModal::diamondData with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 141,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 305,
+                            "message": "Cannot load property fontNormal from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 67,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 309,
+                            "message": "Cannot load property border from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 106,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 310,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 310,
+                            "message": "Cannot load property fontMedium from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 88,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 310,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 109,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 320,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 320,
+                            "message": "Cannot load property fontSmall from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 87,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 320,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "model",
+                            "line": 324,
+                            "message": "Cannot generate efficient code for storing an array in a non-sequence type"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 48,
+                            "durationMicroseconds": 0,
+                            "functionName": "onCompleted",
+                            "line": 325,
+                            "message": "Cannot load property certLab from AddEditDiamondModal::diamondData with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 124,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 334,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 72,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 334,
+                            "message": "Cannot load property fontSmall from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 102,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 334,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 117,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 335,
+                            "message": "Cannot load property textPrimary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 176,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 335,
+                            "message": "Cannot load property certNum from AddEditDiamondModal::diamondData with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 152,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 335,
+                            "message": "Cannot load property fontNormal from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 122,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 340,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 70,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 340,
+                            "message": "Cannot load property fontSmall from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 100,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 340,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 114,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 341,
+                            "message": "Cannot load property textPrimary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 173,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 341,
+                            "message": "Cannot load property certDate from AddEditDiamondModal::diamondData with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 149,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 341,
+                            "message": "Cannot load property fontNormal from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 67,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 345,
+                            "message": "Cannot load property border from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 108,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 346,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 59,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 346,
+                            "message": "Cannot load property fontMedium from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 90,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 346,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 119,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 356,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 67,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 356,
+                            "message": "Cannot load property fontSmall from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 97,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 356,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 361,
+                            "message": "Cannot load property textPrimary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 363,
+                            "message": "Cannot load property purchaseCostCents from AddEditDiamondModal::diamondData with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 362,
+                            "message": "Cannot load property fontNormal from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 119,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 369,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 67,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 369,
+                            "message": "Cannot load property fontSmall from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 97,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 369,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 374,
+                            "message": "Cannot load property textPrimary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 376,
+                            "message": "Cannot load property sellingPriceCents from AddEditDiamondModal::diamondData with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 375,
+                            "message": "Cannot load property fontNormal from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 120,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 382,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 68,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 382,
+                            "message": "Cannot load property fontSmall from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 98,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 382,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 387,
+                            "message": "Cannot load property textPrimary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 389,
+                            "message": "Cannot load property discountPriceCents from AddEditDiamondModal::diamondData with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 388,
+                            "message": "Cannot load property fontNormal from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 119,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 395,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 67,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 395,
+                            "message": "Cannot load property fontSmall from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 97,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 395,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 400,
+                            "message": "Cannot load property textPrimary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 402,
+                            "message": "Cannot load property minSellingPriceCents from AddEditDiamondModal::diamondData with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 401,
+                            "message": "Cannot load property fontNormal from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 67,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 407,
+                            "message": "Cannot load property border from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 111,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 408,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 62,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 408,
+                            "message": "Cannot load property fontMedium from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 93,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 408,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 112,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 418,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 60,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 418,
+                            "message": "Cannot load property fontSmall from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 90,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 418,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "model",
+                            "line": 422,
+                            "message": "Cannot generate efficient code for storing an array in a non-sequence type"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 48,
+                            "durationMicroseconds": 0,
+                            "functionName": "onCompleted",
+                            "line": 423,
+                            "message": "Cannot load property status from AddEditDiamondModal::diamondData with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 114,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 432,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 62,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 432,
+                            "message": "Cannot load property fontSmall from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 92,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 432,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "model",
+                            "line": 436,
+                            "message": "Cannot generate efficient code for storing an array in a non-sequence type"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 48,
+                            "durationMicroseconds": 0,
+                            "functionName": "onCompleted",
+                            "line": 437,
+                            "message": "Cannot load property location from AddEditDiamondModal::diamondData with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 122,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 446,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 70,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 446,
+                            "message": "Cannot load property fontSmall from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 100,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 446,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 126,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 447,
+                            "message": "Cannot load property textPrimary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 185,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 447,
+                            "message": "Cannot load property locationDetails from AddEditDiamondModal::diamondData with type QVariant."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 161,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 447,
+                            "message": "Cannot load property fontNormal from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 67,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 451,
+                            "message": "Cannot load property border from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 103,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 452,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 54,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 452,
+                            "message": "Cannot load property fontMedium from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 85,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 452,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 2000,
+                            "functionName": "model",
+                            "line": 457,
+                            "message": "Cannot access value for name SupplierModel"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 16,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 472,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 16,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 474,
+                            "message": "Cannot load property bgCard from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 17,
+                            "durationMicroseconds": 0,
+                            "functionName": "radius",
+                            "line": 477,
+                            "message": "Cannot load property radiusLarge from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 23,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 475,
+                            "message": "Cannot load property border from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 27,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 480,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 23,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 485,
+                            "message": "Cannot access value for name validationMsg"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 487,
+                            "message": "Cannot load property danger from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 26,
+                            "durationMicroseconds": 0,
+                            "functionName": "visible",
+                            "line": 488,
+                            "message": "Cannot access value for name validationMsg"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 486,
+                            "message": "Cannot load property fontSmall from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 495,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 499,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 28,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 501,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "/home/nigoat/Documents/Diamond/qml/pages/AddEditDiamondModal.qml"
+                }
+            ],
+            "moduleId": "DiamondInventory(DiamondApp)"
+        }
+    ]
+}

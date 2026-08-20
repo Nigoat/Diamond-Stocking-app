@@ -1,0 +1,56 @@
+name: Windows Build & Package
+
+on:
+  push:
+    branches: [ main, master ]
+    tags: [ 'v*' ]
+  pull_request:
+    branches: [ main, master ]
+  workflow_dispatch:
+
+jobs:
+  build-windows:
+    runs-on: windows-2022
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Qt 6
+        uses: jurplel/install-qt-action@v3
+        with:
+          version: '6.6.3'
+          host: 'windows'
+          target: 'desktop'
+          arch: 'win64_msvc2019_64'
+          modules: 'qtquickcontrols2 qtsvg'
+
+      - name: Setup MSVC developer environment
+        uses: ilammy/msvc-dev-cmd@v1
+
+      - name: Configure CMake
+        run: |
+          cmake -B build -G "Ninja" `
+            -DCMAKE_BUILD_TYPE=Release `
+            -DCMAKE_PREFIX_PATH="$env:Qt6_DIR"
+
+      - name: Build Application & Tests
+        run: cmake --build build --config Release
+
+      - name: Run Tests
+        run: ctest --test-dir build --output-on-failure -C Release
+
+      - name: Deploy Qt Dependencies (windeployqt)
+        run: |
+          windeployqt --qmldir qml --release --compiler-runtime build/DiamondInventory.exe
+
+      - name: Package with NSIS
+        run: |
+          makensis /DVERSION="1.0.0" installer/installer.nsi
+
+      - name: Upload Installer Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: DiamondInventorySetup-Windows
+          path: installer/DiamondInventorySetup.exe
+          if-no-files-found: warn

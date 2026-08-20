@@ -1,0 +1,5 @@
+tst_database 1 0.0330001
+tst_pricing 1 0.03022
+tst_validation 1 0.0307845
+tst_import_export 1 0.0311467
+---

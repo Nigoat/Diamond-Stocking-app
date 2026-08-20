@@ -1,0 +1,4 @@
+/home/nigoat/Documents/Diamond/build/DiamondApp_autogen/include/../ISMKEKEPX5/moc_AppSettings.cpp.json
+/home/nigoat/Documents/Diamond/build/DiamondApp_autogen/include/../ISMKEKEPX5/moc_ApplicationController.cpp.json
+/home/nigoat/Documents/Diamond/build/DiamondApp_autogen/include/../OU24M7UBFK/moc_DiamondListModel.cpp.json
+/home/nigoat/Documents/Diamond/build/DiamondApp_autogen/include/../OU24M7UBFK/moc_SupplierListModel.cpp.json

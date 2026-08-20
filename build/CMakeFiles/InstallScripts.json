@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/nigoat/Documents/Diamond/build/cmake_install.cmake",
+		"/home/nigoat/Documents/Diamond/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

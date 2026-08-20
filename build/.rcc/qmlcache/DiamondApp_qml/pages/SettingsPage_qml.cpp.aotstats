@@ -1,0 +1,1119 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 2,
+                            "column": 12,
+                            "durationMicroseconds": 3000,
+                            "functionName": "color",
+                            "line": 8,
+                            "message": "Cannot load property bgPrimary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 24,
+                            "durationMicroseconds": 0,
+                            "functionName": "contentHeight",
+                            "line": 13,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 11,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 20,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 18,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 25,
+                            "message": "Cannot load property textPrimary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 33,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 23,
+                            "message": "Cannot load property fontTitle from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 30,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 24,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 0,
+                            "functionName": "height",
+                            "line": 30,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 0,
+                            "functionName": "radius",
+                            "line": 31,
+                            "message": "Cannot load property radiusLarge from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 32,
+                            "message": "Cannot load property bgCard from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 33,
+                            "message": "Cannot load property border from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 38,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 119,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 42,
+                            "message": "Cannot load property textPrimary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 71,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 42,
+                            "message": "Cannot load property fontLarge from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 101,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 42,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 75,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 43,
+                            "message": "Cannot load property border from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 124,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 53,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 72,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 53,
+                            "message": "Cannot load property fontSmall from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 102,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 53,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 40,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 57,
+                            "message": "Cannot load property textPrimary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 39,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 59,
+                            "message": "Cannot access value for name Settings"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 52,
+                            "durationMicroseconds": 0,
+                            "functionName": "onEditingFinished",
+                            "line": 60,
+                            "message": "Cannot access value for name Settings"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 58,
+                            "message": "Cannot load property fontNormal from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 119,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 66,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 67,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 66,
+                            "message": "Cannot load property fontSmall from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 97,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 66,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 40,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 70,
+                            "message": "Cannot load property textPrimary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 39,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 72,
+                            "message": "Cannot access value for name Settings"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 52,
+                            "durationMicroseconds": 0,
+                            "functionName": "onEditingFinished",
+                            "line": 73,
+                            "message": "Cannot access value for name Settings"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 71,
+                            "message": "Cannot load property fontNormal from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 119,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 79,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 67,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 79,
+                            "message": "Cannot load property fontSmall from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 97,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 79,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 40,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 83,
+                            "message": "Cannot load property textPrimary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 39,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 85,
+                            "message": "Cannot access value for name Settings"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 52,
+                            "durationMicroseconds": 0,
+                            "functionName": "onEditingFinished",
+                            "line": 86,
+                            "message": "Cannot access value for name Settings"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 84,
+                            "message": "Cannot load property fontNormal from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 121,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 93,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 69,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 93,
+                            "message": "Cannot load property fontSmall from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 99,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 93,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 40,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 97,
+                            "message": "Cannot load property textPrimary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 39,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 99,
+                            "message": "Cannot access value for name Settings"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 52,
+                            "durationMicroseconds": 0,
+                            "functionName": "onEditingFinished",
+                            "line": 100,
+                            "message": "Cannot access value for name Settings"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 49,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 98,
+                            "message": "Cannot load property fontNormal from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 0,
+                            "functionName": "height",
+                            "line": 109,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 0,
+                            "functionName": "radius",
+                            "line": 110,
+                            "message": "Cannot load property radiusLarge from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 111,
+                            "message": "Cannot load property bgCard from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 112,
+                            "message": "Cannot load property border from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 117,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 112,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 121,
+                            "message": "Cannot load property textPrimary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 64,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 121,
+                            "message": "Cannot load property fontLarge from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 94,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 121,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 75,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 122,
+                            "message": "Cannot load property border from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 89,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 127,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 64,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 127,
+                            "message": "Cannot load property fontNormal from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 0,
+                            "functionName": "model",
+                            "line": 130,
+                            "message": "Cannot generate efficient code for storing an array in a non-sequence type"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "radius",
+                            "line": 135,
+                            "message": "Cannot load property radiusMedium from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 40,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 136,
+                            "message": "Cannot access value for name Settings"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 47,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 137,
+                            "message": "Cannot access value for name Settings"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 43,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 142,
+                            "message": "Cannot access value for name modelData"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 44,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 145,
+                            "message": "Cannot access value for name Settings"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 55,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 141,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 53,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 143,
+                            "message": "Cannot load property fontNormal from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 50,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 144,
+                            "message": "Cannot access value for name Settings"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 50,
+                            "durationMicroseconds": 0,
+                            "functionName": "cursorShape",
+                            "line": 150,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 48,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 151,
+                            "message": "Cannot access value for name Settings"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 51,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 149,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 0,
+                            "functionName": "height",
+                            "line": 161,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 0,
+                            "functionName": "radius",
+                            "line": 162,
+                            "message": "Cannot load property radiusLarge from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 163,
+                            "message": "Cannot load property bgCard from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 164,
+                            "message": "Cannot load property border from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 169,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 118,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 173,
+                            "message": "Cannot load property textPrimary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 70,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 173,
+                            "message": "Cannot load property fontLarge from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 100,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 173,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 75,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 174,
+                            "message": "Cannot load property border from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 177,
+                            "message": "Cannot access value for name Settings"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 179,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 41,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 178,
+                            "message": "Cannot load property fontNormal from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 95,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 185,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 70,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 185,
+                            "message": "Cannot load property fontNormal from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 0,
+                            "functionName": "model",
+                            "line": 188,
+                            "message": "Cannot generate efficient code for storing an array in a non-sequence type"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 43,
+                            "durationMicroseconds": 0,
+                            "functionName": "currentIndex",
+                            "line": 189,
+                            "message": "Cannot access value for name Settings"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 51,
+                            "durationMicroseconds": 0,
+                            "functionName": "onCurrentTextChanged",
+                            "line": 193,
+                            "message": "Cannot access value for name Settings"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 40,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 203,
+                            "message": "Cannot access value for name AppController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 40,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 208,
+                            "message": "Cannot access value for name AppController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 40,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 213,
+                            "message": "Cannot access value for name AppController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 117,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 219,
+                            "message": "Cannot load property textPrimary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 68,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 219,
+                            "message": "Cannot load property fontMedium from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 99,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 219,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 32,
+                            "durationMicroseconds": 0,
+                            "functionName": "model",
+                            "line": 225,
+                            "message": "Cannot access value for name AppController"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 49,
+                            "durationMicroseconds": 0,
+                            "functionName": "preferredHeight",
+                            "line": 224,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 230,
+                            "message": "Cannot access value for name backupList"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 40,
+                            "durationMicroseconds": 0,
+                            "functionName": "width",
+                            "line": 236,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 40,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 238,
+                            "message": "Cannot load property border from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 49,
+                            "durationMicroseconds": 0,
+                            "functionName": "bottom",
+                            "line": 235,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 47,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 242,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 47,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 251,
+                            "message": "Cannot access value for name modelData"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 48,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 254,
+                            "message": "Cannot load property textPrimary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 57,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 252,
+                            "message": "Cannot load property fontNormal from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 54,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 253,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 51,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 260,
+                            "message": "Cannot access value for name modelData"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 52,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 262,
+                            "message": "Cannot load property textMuted from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 261,
+                            "message": "Cannot load property fontSmall from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 52,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 266,
+                            "message": "Cannot load property textMuted from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 51,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 269,
+                            "message": "Cannot access value for name modelData"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 52,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 271,
+                            "message": "Cannot load property textMuted from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 270,
+                            "message": "Cannot load property fontSmall from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 52,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 275,
+                            "message": "Cannot load property textMuted from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 51,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 278,
+                            "message": "Cannot access value for name modelData"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 52,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 280,
+                            "message": "Cannot load property textMuted from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 61,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 279,
+                            "message": "Cannot load property fontSmall from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 48,
+                            "durationMicroseconds": 0,
+                            "functionName": "onClicked",
+                            "line": 287,
+                            "message": "Cannot access value for name restoreConfirm"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 36,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 299,
+                            "message": "Cannot load property textMuted from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 38,
+                            "durationMicroseconds": 0,
+                            "functionName": "visible",
+                            "line": 300,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 47,
+                            "durationMicroseconds": 0,
+                            "functionName": "centerIn",
+                            "line": 296,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 45,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 298,
+                            "message": "Cannot load property fontNormal from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 25,
+                            "durationMicroseconds": 0,
+                            "functionName": "height",
+                            "line": 308,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 25,
+                            "durationMicroseconds": 0,
+                            "functionName": "radius",
+                            "line": 309,
+                            "message": "Cannot load property radiusLarge from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 24,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 310,
+                            "message": "Cannot load property bgCard from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 31,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 311,
+                            "message": "Cannot load property border from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 316,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 107,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 320,
+                            "message": "Cannot load property textPrimary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 59,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 320,
+                            "message": "Cannot load property fontLarge from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 89,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 320,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 75,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 321,
+                            "message": "Cannot load property border from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 323,
+                            "message": "Cannot access value for name AppController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 123,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 323,
+                            "message": "Cannot load property textPrimary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 73,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 323,
+                            "message": "Cannot load property fontHeading from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 105,
+                            "durationMicroseconds": 0,
+                            "functionName": "weight",
+                            "line": 323,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 34,
+                            "durationMicroseconds": 0,
+                            "functionName": "text",
+                            "line": 324,
+                            "message": "Cannot access value for name AppController"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 114,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 324,
+                            "message": "Cannot load property textSecondary from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 89,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 324,
+                            "message": "Cannot load property fontNormal from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 121,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 325,
+                            "message": "Cannot load property textMuted from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 96,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 325,
+                            "message": "Cannot load property fontNormal from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 127,
+                            "durationMicroseconds": 0,
+                            "functionName": "color",
+                            "line": 326,
+                            "message": "Cannot load property textMuted from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 103,
+                            "durationMicroseconds": 0,
+                            "functionName": "pixelSize",
+                            "line": 326,
+                            "message": "Cannot load property fontSmall from const QMetaObject."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 22,
+                            "durationMicroseconds": 0,
+                            "functionName": "onConfirmed",
+                            "line": 341,
+                            "message": "Cannot access value for name AppController"
+                        }
+                    ],
+                    "filePath": "/home/nigoat/Documents/Diamond/qml/pages/SettingsPage.qml"
+                }
+            ],
+            "moduleId": "DiamondInventory(DiamondApp)"
+        }
+    ]
+}
