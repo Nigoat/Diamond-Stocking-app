@@ -148,7 +148,6 @@ if(WIN32)
         qt_generate_deploy_qml_app_script(
             TARGET DiamondApp
             OUTPUT_SCRIPT deploy_script
-            DEPLOY_USER_QML_MODULES_ON_UNSUPPORTED_PLATFORMS
         )
         install(SCRIPT ${deploy_script})
     endif()
