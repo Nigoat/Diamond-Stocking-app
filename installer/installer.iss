@@ -22,10 +22,9 @@ Name: "french"; MessagesFile: "compiler:Languages\French.isl"
 Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{cm:AdditionalIcons}"
 
 [Files]
-Source: "..\build\DiamondInventory.exe"; DestDir: "{app}"; Flags: ignoreversion
-Source: "..\build\*.dll"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "..\build\plugins\*"; DestDir: "{app}\plugins"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "..\build\qml\*"; DestDir: "{app}\qml"; Flags: ignoreversion recursesubdirs createallsubdirs
+; Keep this in sync with the GitHub Actions output directory.  windeployqt places
+; DLLs and plugin folders (platforms, sqldrivers, etc.) directly under build\bin.
+Source: "..\build\bin\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
 
 [Icons]
 Name: "{group}\Diamond Inventory"; Filename: "{app}\DiamondInventory.exe"

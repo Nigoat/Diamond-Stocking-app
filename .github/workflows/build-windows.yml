@@ -55,15 +55,28 @@ jobs:
         run: |
           & "$env:Qt6_DIR\bin\windeployqt.exe" --qmldir qml --release --compiler-runtime --no-translations build/bin/DiamondInventory.exe
 
-      - name: Write qt.conf
-        shell: pwsh
-        run: |
-          $content = "[Paths]`nPrefix = .`nBinaries = .`nLibraries = .`nPlugins = plugins`nQml2Imports = qml"
-          Set-Content -Path "build/bin/qt.conf" -Value $content -Encoding ASCII
-
       - name: Verify deployed files
         shell: pwsh
-        run: Get-ChildItem build/bin -Recurse | Select-Object FullName
+        run: |
+          $requiredFiles = @(
+            "DiamondInventory.exe",
+            "Qt6Core.dll",
+            "Qt6Gui.dll",
+            "Qt6Qml.dll",
+            "Qt6Quick.dll",
+            "platforms\\qwindows.dll",
+            "sqldrivers\\qsqlite.dll"
+          )
+
+          $missingFiles = $requiredFiles | Where-Object {
+            -not (Test-Path (Join-Path "build/bin" $_))
+          }
+
+          if ($missingFiles) {
+            throw "Windows package is missing required runtime files: $($missingFiles -join ', ')"
+          }
+
+          Get-ChildItem build/bin -Recurse | Select-Object FullName
 
       - name: Setup NSIS
         shell: pwsh
